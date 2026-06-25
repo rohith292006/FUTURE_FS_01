@@ -1,6 +1,3 @@
-# FUTURE_FS_01
-"A fully responsive personal portfolio built with HTML, CSS &amp; JavaScript. Features an interactive Power Core animation, typewriter effect, EmailJS contact form, scroll animations, and SEO optimization. Showcases projects, internships, skills &amp; resume. Built as Task 1 @ Future Interns."
-
 ### 🌐 Personal Portfolio Website — S. Rohith
 
 The Personal Portfolio Website is a fully responsive, client-side web application developed using HTML, CSS, and JavaScript that professionally showcases academic background, technical skills, internship experience, and real-world project work. The application is structured as a single-page portfolio with smooth scroll navigation, interactive animations, and a functional contact system — built to meet professional recruiter and client standards.
@@ -117,7 +114,7 @@ emailjs.send('YOUR_SERVICE_ID', 'YOUR_TEMPLATE_ID', templateParams);
 | 01 | Zero-Knowledge Vault | [Live](https://rohith292006.github.io/zero-knowledge-vault/) | HTML5, CSS3, JavaScript ES6+, Web Crypto API |
 | 02 | NeoTask Pro | [Live](https://rohith292006.github.io/To-DO-List/) | HTML5, CSS3, JavaScript, LocalStorage API |
 | 03 | TN Govt Marksheet Generator | [Live](https://rohith292006.github.io/Tamil-Nadu-Government-School-Marksheet-Generator/) | HTML5, CSS3, JavaScript ES6+ |
-| 04 | Personal Portfolio Website | [Live](https://rohith292006.github.io/FUTURE_FS_01) | HTML5, CSS3, JavaScript ES6+, EmailJS, Canvas API |
+| 04 | Personal Portfolio Website | [Live](https://rohith292006.github.io/FUTURE_FS_01/) | HTML5, CSS3, JavaScript ES6+, EmailJS, Canvas API |
 
 ---
 
